@@ -1,0 +1,22 @@
+# Maven/Gradle
+target/
+build/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Spring Boot配置
+application*.yml
+application*.properties
+logs/*.log
+
+# 本地数据
+data/uploads/
+*.sqlite
